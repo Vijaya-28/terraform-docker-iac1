@@ -1,0 +1,6 @@
+2025-08-07 10:37:10 - terraform plan
+Terraform will perform the following actions:
+
+  # docker_image.nginx will be created
+  # docker_container.nginx will be created
+Plan: 2 to add, 0 to change, 0 to destroy.
