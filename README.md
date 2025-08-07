@@ -48,8 +48,13 @@ terraform state list
 terraform destroy
 ```
 
+### &.Output Screenshot
+<img width="1335" height="694" alt="Screenshot 2025-08-07 165953" src="https://github.com/user-attachments/assets/63786684-54f5-438e-adf1-e43677a7dd67" />
+
+
 ## 📝 Author
 Vijaya Lakshmi Yallamanda
+
 
 ## 📄 License
 This project is for educational/demo purposes.
